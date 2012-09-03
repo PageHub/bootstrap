@@ -1,3 +1,5 @@
+This is bootstrap with Font Awesome integrated, please see FontAwesome repo for more info at this time.
+
 [Twitter Bootstrap](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
 =================
 
